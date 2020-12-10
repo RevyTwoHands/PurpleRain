@@ -1,5 +1,6 @@
-import pygame
 from random import randint
+
+import pygame
 
 # Size of the screen
 SCREEN_TITLE = 'Purple Rain'
@@ -38,7 +39,6 @@ class Drop:
 
 
 class Game:
-
     # Corresponding to FPS
     TICK_RATE = 70
 
